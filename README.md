@@ -9,6 +9,12 @@
 </p>
 
 ---
+### 📊 WakaTime Coding Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devSeyf&layout=compact&theme=dracula" alt="WakaTime Stats" />
+</p>
+
+---
 <h3 align="center">📈 My GitHub Activity:</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devSeyf&theme=dracula&hide_border=false" alt="GitHub Activity Graph" />
