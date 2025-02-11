@@ -14,6 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devSeyf&layout=compact&theme=dracula" alt="WakaTime Stats" />
 </p>
 
+
 ---
 <h3 align="center">📈 My GitHub Activity:</h3>
 <p align="center">
@@ -32,3 +33,4 @@
 </p>
 
 ---
+
