@@ -5,7 +5,7 @@
 
 <h3 align="center">🚀 Skills & Technologies:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,wordpress,mysql,sql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,wordpress" alt="Tech Stack" />
 </p>
 
 ---
