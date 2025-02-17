@@ -1,5 +1,5 @@
 <h2 align="center">Hey there! 👋 I'm <span style="color:#ff6347;">Seyf</span>  </h2>
-<h3 align="center">🚀 React.js Frontend Developer</h3>
+<h3 align="center">🚀 Frontend Developer & Wordpress Developer</h3>
 
 ---
 
