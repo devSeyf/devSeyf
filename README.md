@@ -1,15 +1,6 @@
 <h2 align="center">Hey there! 👋 I'm <span style="color:#ff6347;">Seyf</span>  </h2>
 <h3 align="center">🚀 Software Developer </h3>
 
----
- 
-
----
-<h3 align="center">📈 My GitHub Activity:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devSeyf&theme=dracula&hide_border=false" alt="GitHub Activity Graph" />
-</p>
----
 <h3 align="center">💬 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
