@@ -1,19 +1,8 @@
 <h2 align="center">Hey there! 👋 I'm <span style="color:#ff6347;">Seyf</span>  </h2>
-<h3 align="center">🚀 Frontend Developer & Wordpress Developer & | Linux User </h3>
+<h3 align="center">🚀 Software Developer </h3>
 
 ---
-
-<h3 align="center">🚀 Skills & Technologies:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,wordpress" alt="Tech Stack" />
-</p>
-
----
-### 📊 WakaTime Coding Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devSeyf&layout=compact&theme=dracula" alt="WakaTime Stats" />
-</p>
-
+ 
 
 ---
 <h3 align="center">📈 My GitHub Activity:</h3>
