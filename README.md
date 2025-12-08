@@ -1,16 +1,14 @@
-<!-- Hero / Intro GIF -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB3MnZ1ZjFucmowYzEyaWVhaXB0aHViZjNhaDh0c3prcHNpYWc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VmmEstYkSurbce7WrM/giphy.gif" width="300" />
-</p>
 
 <h1 align="center">
-  Hello, I’m <span style="color:#ff6347;">Saif</span> ⚡  
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHh4YXlhZXJhaGk3dmkwMmZlZmtzc3AzcmY1Nnk1NGtibjJtZmJxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gz34C7rGrnCuI/giphy.gif" width="50" style="vertical-align: middle;" />
+  Hello, I’m <span style="color:#ff6347;">Saif</span>  
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=720&lines=Full-stack+Web+Developer;%7C+React+%7C+Next.js+%7C+TailwindCSS+%7C+WordPress;%7C+Linux+&+Systems+Dev;+Passionate+about+Clean+Code;+Fueled+by+Coffee+☕" />
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB3MnZ1ZjFucmowYzEyaWVhaXB0aHViZjNhaDh0c3prcHNpYWc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VmmEstYkSurbce7WrM/giphy.gif" width="300" />
 </p>
+
+
+ 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saifjamal&label=Profile%20Views&style=for-the-badge" />
@@ -42,10 +40,17 @@
 
 ## 🔧 What I Do
 
+<p align="center">
+  <img width="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNkczBpc2tvanhoOWl3dzVhZThxdHZxZXZjeWhlOGpvamtiMzY3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uLuxOl1gHL28eS37b3/giphy.gif" />
+</p>
+
+
 - Build modern, responsive web apps with **React.js**, **Next.js**, **TailwindCSS**, **WordPress**,
 - Dive into **Linux**, **systems programming**, and **low-level concepts**
 - Write clean, maintainable code and love exploring performance optimizations
 - Constantly learning new tools, techniques, and workflows — fueled by coffee ☕
+
+
 
 ---
 
@@ -98,7 +103,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/saifjamal">
+  <a href="https://github.com/devSeyf">
     <img src="https://img.shields.io/badge/Check%20My%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -108,8 +113,13 @@
 ## ✨ Keep the Momentum Going
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="140" />
+  <img
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHh4YXlhZXJhaGk3dmkwMmZlZmtzc3AzcmY1Nnk1NGtibjJtZmJxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gz34C7rGrnCuI/giphy.gif"
+    width="140" />
 </p>
+
+
+
 
 <p align="center">
   <i>"Code. Learn. Build. Repeat." 🚀</i>
