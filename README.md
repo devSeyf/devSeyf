@@ -86,6 +86,12 @@
 
 ### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Code with Daif Day | 17 | The Legend of Saif](https://ytcards.demolab.com/?id=XPsn1aR6umk&title=Code+with+Daif+Day+%7C+17+%7C+The+Legend+of+Saif&lang=en&timestamp=1767651026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Code with Daif Day | 17 | The Legend of Saif")](https://www.youtube.com/watch?v=XPsn1aR6umk)
+[![Code with Daif Day | 16 | The Legend of Saif](https://ytcards.demolab.com/?id=F8id_kwnn8A&title=Code+with+Daif+Day+%7C+16+%7C+The+Legend+of+Saif&lang=en&timestamp=1767557668&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Code with Daif Day | 16 | The Legend of Saif")](https://www.youtube.com/watch?v=F8id_kwnn8A)
+[![Code with Daif Day | 15 | The Legend of Saif](https://ytcards.demolab.com/?id=a8HxTGCbNTo&title=Code+with+Daif+Day+%7C+15+%7C+The+Legend+of+Saif&lang=en&timestamp=1767468410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Code with Daif Day | 15 | The Legend of Saif")](https://www.youtube.com/watch?v=a8HxTGCbNTo)
+[![Code with Daif Day | 14 | The Legend of Saif](https://ytcards.demolab.com/?id=KLlk61qyxgA&title=Code+with+Daif+Day+%7C+14+%7C+The+Legend+of+Saif&lang=en&timestamp=1767348936&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Code with Daif Day | 14 | The Legend of Saif")](https://www.youtube.com/watch?v=KLlk61qyxgA)
+[![Code with Daif Day | 13 | The Legend of Saif  |  الفينال صعب](https://ytcards.demolab.com/?id=MowgjuMpthw&title=Code+with+Daif+Day+%7C+13+%7C+The+Legend+of+Saif++%7C++%D8%A7%D9%84%D9%81%D9%8A%D9%86%D8%A7%D9%84+%D8%B5%D8%B9%D8%A8&lang=en&timestamp=1767275668&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Code with Daif Day | 13 | The Legend of Saif  |  الفينال صعب")](https://www.youtube.com/watch?v=MowgjuMpthw)
+[![Code with Daif Day | 12 | The Legend of Saif](https://ytcards.demolab.com/?id=vHs26z4nVB4&title=Code+with+Daif+Day+%7C+12+%7C+The+Legend+of+Saif&lang=en&timestamp=1767201636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Code with Daif Day | 12 | The Legend of Saif")](https://www.youtube.com/watch?v=vHs26z4nVB4)
 <!-- END YOUTUBE-CARDS -->
 
 ---
