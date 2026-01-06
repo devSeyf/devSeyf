@@ -84,19 +84,15 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifjamal&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saifjamal&theme=radical&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifjamal&layout=compact&theme=radical" />
-</p>
+### 📺 Latest YouTube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Coding Everyday until I become a Web Dev | Day 56 - Coding + Study + Chill](https://ytcards.demolab.com/?id=UJRmJIZjlSk&title=Coding+Everyday+until+I+become+a+Web+Dev+%7C+Day+56+-+Coding+%2B+Study+%2B+Chill&lang=en&timestamp=1767716599&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday until I become a Web Dev | Day 56 - Coding + Study + Chill")](https://www.youtube.com/watch?v=UJRmJIZjlSk)
+[![Coding Everyday until I become a Web Dev | Day 55 - Code + Study + Github Cleanup](https://ytcards.demolab.com/?id=ZnCzuqNA1yM&title=Coding+Everyday+until+I+become+a+Web+Dev+%7C+Day+55+-+Code+%2B+Study+%2B+Github+Cleanup&lang=en&timestamp=1767685028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday until I become a Web Dev | Day 55 - Code + Study + Github Cleanup")](https://www.youtube.com/watch?v=ZnCzuqNA1yM)
+[![Coding Everyday until I become a Web Dev | Day 55 - Starting Week 2](https://ytcards.demolab.com/?id=S0M8Vm1QzCE&title=Coding+Everyday+until+I+become+a+Web+Dev+%7C+Day+55+-+Starting+Week+2&lang=en&timestamp=1767617582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday until I become a Web Dev | Day 55 - Starting Week 2")](https://www.youtube.com/watch?v=S0M8Vm1QzCE)
+[![Coding Everyday until I become a Web Dev | Day 54 - -Finishing Week 1](https://ytcards.demolab.com/?id=lEwnp3XjxcE&title=Coding+Everyday+until+I+become+a+Web+Dev+%7C+Day+54+-+-Finishing+Week+1&lang=en&timestamp=1767588097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday until I become a Web Dev | Day 54 - -Finishing Week 1")](https://www.youtube.com/watch?v=lEwnp3XjxcE)
+[![Coding Everyday until I become a Web Dev | Day 53](https://ytcards.demolab.com/?id=KxUamlZ-iwI&title=Coding+Everyday+until+I+become+a+Web+Dev+%7C+Day+53&lang=en&timestamp=1767558246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday until I become a Web Dev | Day 53")](https://www.youtube.com/watch?v=KxUamlZ-iwI)
+[![Coding Everyday until I become a Web Dev | Day 53 pT 2](https://ytcards.demolab.com/?id=yG5vBx69b9g&title=Coding+Everyday+until+I+become+a+Web+Dev+%7C+Day+53+pT+2&lang=en&timestamp=1767556471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday until I become a Web Dev | Day 53 pT 2")](https://www.youtube.com/watch?v=yG5vBx69b9g)
+<!-- END YOUTUBE-CARDS -->
 
 ---
 
