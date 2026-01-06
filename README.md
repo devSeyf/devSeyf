@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB3MnZ1ZjFucmowYzEyaWVhaXB0aHViZjNhaDh0c3prcHNpYWc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VmmEstYkSurbce7WrM/giphy.gif" width="300" />
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB3MnZ1ZjFucmowYzEyaWVhaXB0aHViZjNhaDh0c3prcHNpYWc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VmmEstYkSurbce7WrM/giphy.gif" width="200" />
 </p>
 
 
@@ -94,29 +94,4 @@
 [![Code with Daif Day | 12 | The Legend of Saif](https://ytcards.demolab.com/?id=vHs26z4nVB4&title=Code+with+Daif+Day+%7C+12+%7C+The+Legend+of+Saif&lang=en&timestamp=1767201636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Code with Daif Day | 12 | The Legend of Saif")](https://www.youtube.com/watch?v=vHs26z4nVB4)
 <!-- END YOUTUBE-CARDS -->
 
----
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/devSeyf">
-    <img src="https://img.shields.io/badge/Check%20My%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ✨ Keep the Momentum Going
-
-<p align="center">
-  <img
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHh4YXlhZXJhaGk3dmkwMmZlZmtzc3AzcmY1Nnk1NGtibjJtZmJxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gz34C7rGrnCuI/giphy.gif"
-    width="140" />
-</p>
-
-
-
-
-<p align="center">
-  <i>"Code. Learn. Build. Repeat." 🚀</i>
-</p>
