@@ -7,9 +7,6 @@
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB3MnZ1ZjFucmowYzEyaWVhaXB0aHViZjNhaDh0c3prcHNpYWc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VmmEstYkSurbce7WrM/giphy.gif" width="200" />
 </p>
 
-
- 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saifjamal&label=Profile%20Views&style=for-the-badge" />
 </p>
@@ -39,19 +36,10 @@
 ---
 
 ## 🔧 What I Do
-
-<p align="center">
-  <img width="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNkczBpc2tvanhoOWl3dzVhZThxdHZxZXZjeWhlOGpvamtiMzY3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uLuxOl1gHL28eS37b3/giphy.gif" />
-</p>
-
-
 - Build modern, responsive web apps with **React.js**, **Next.js**, **TailwindCSS**, **WordPress**,
 - Dive into **Linux**, **systems programming**, and **low-level concepts**
 - Write clean, maintainable code and love exploring performance optimizations
 - Constantly learning new tools, techniques, and workflows — fueled by coffee ☕
-
-
-
 ---
 
 ## 🛠 My Tech Stack
