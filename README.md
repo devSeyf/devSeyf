@@ -55,12 +55,12 @@
 
 ### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Coding Everyday | Day 27](https://ytcards.demolab.com/?id=vwTKzJiy21Y&title=Coding+Everyday+%7C+Day+27&lang=en&timestamp=1769460012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 27")](https://www.youtube.com/watch?v=vwTKzJiy21Y)
 [![Coding Everyday | Day 26](https://ytcards.demolab.com/?id=vXqM3dWNDpw&title=Coding+Everyday+%7C+Day+26&lang=en&timestamp=1769336767&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 26")](https://www.youtube.com/watch?v=vXqM3dWNDpw)
 [![Coding Everyday | Day 25](https://ytcards.demolab.com/?id=qVfHRDLk3mE&title=Coding+Everyday+%7C+Day+25&lang=en&timestamp=1769290821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 25")](https://www.youtube.com/watch?v=qVfHRDLk3mE)
 [![Coding Everyday  | Day 24](https://ytcards.demolab.com/?id=QnIkm66Cj2M&title=Coding+Everyday++%7C+Day+24&lang=en&timestamp=1769210155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday  | Day 24")](https://www.youtube.com/watch?v=QnIkm66Cj2M)
 [![Coding Everyday  | Day 23](https://ytcards.demolab.com/?id=YC2ldv9tLB4&title=Coding+Everyday++%7C+Day+23&lang=en&timestamp=1769117613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday  | Day 23")](https://www.youtube.com/watch?v=YC2ldv9tLB4)
 [![Coding Everyday  | Day 23](https://ytcards.demolab.com/?id=OheG_kUlYgA&title=Coding+Everyday++%7C+Day+23&lang=en&timestamp=1769027247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday  | Day 23")](https://www.youtube.com/watch?v=OheG_kUlYgA)
-[![Coding Everyday until I become a backend Dev | Day 22 | The Legend of Saif](https://ytcards.demolab.com/?id=DjG7jO_U9m4&title=Coding+Everyday+until+I+become+a+backend+Dev+%7C+Day+22+%7C+The+Legend+of+Saif&lang=en&timestamp=1768752888&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday until I become a backend Dev | Day 22 | The Legend of Saif")](https://www.youtube.com/watch?v=DjG7jO_U9m4)
 <!-- END YOUTUBE-CARDS -->
 
 
