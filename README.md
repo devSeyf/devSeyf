@@ -55,12 +55,12 @@
 
 ### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Coding Everyday | Day31](https://ytcards.demolab.com/?id=EjJ_znUpXbs&title=Coding+Everyday+%7C+Day31&lang=en&timestamp=1770759783&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day31")](https://www.youtube.com/watch?v=EjJ_znUpXbs)
 [![Coding Everyday | Day 31  العودة](https://ytcards.demolab.com/?id=edmlbNgCaYU&title=Coding+Everyday+%7C+Day+31++%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9&lang=en&timestamp=1770064558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 31  العودة")](https://www.youtube.com/watch?v=edmlbNgCaYU)
 [![Coding Everyday | Day 30  العودة](https://ytcards.demolab.com/?id=4i10cXyGGk4&title=Coding+Everyday+%7C+Day+30++%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9&lang=en&timestamp=1769981789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 30  العودة")](https://www.youtube.com/watch?v=4i10cXyGGk4)
 [![Coding Everyday | Day 29](https://ytcards.demolab.com/?id=48I9EsUB3Qs&title=Coding+Everyday+%7C+Day+29&lang=en&timestamp=1769635321&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 29")](https://www.youtube.com/watch?v=48I9EsUB3Qs)
 [![Coding Everyday | Day 28](https://ytcards.demolab.com/?id=pyyIRJHNA2A&title=Coding+Everyday+%7C+Day+28&lang=en&timestamp=1769549913&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 28")](https://www.youtube.com/watch?v=pyyIRJHNA2A)
 [![Coding Everyday | Day 27](https://ytcards.demolab.com/?id=vwTKzJiy21Y&title=Coding+Everyday+%7C+Day+27&lang=en&timestamp=1769460012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 27")](https://www.youtube.com/watch?v=vwTKzJiy21Y)
-[![Coding Everyday | Day 26](https://ytcards.demolab.com/?id=vXqM3dWNDpw&title=Coding+Everyday+%7C+Day+26&lang=en&timestamp=1769336767&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 26")](https://www.youtube.com/watch?v=vXqM3dWNDpw)
 <!-- END YOUTUBE-CARDS -->
 
 
