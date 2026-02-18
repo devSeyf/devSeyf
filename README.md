@@ -1,16 +1,3 @@
-
-<h1 align="center">
-  Hello, I’m <span style="color:#ff6347;">Saif</span>  
-</h1>
-
-<p align="center">
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB3MnZ1ZjFucmowYzEyaWVhaXB0aHViZjNhaDh0c3prcHNpYWc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VmmEstYkSurbce7WrM/giphy.gif" width="200" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saifjamal&label=Profile%20Views&style=for-the-badge" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
