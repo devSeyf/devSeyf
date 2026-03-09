@@ -24,9 +24,6 @@
 
 ## 🔧 What I Do
 - Build modern, responsive web apps with **React.js**, **Next.js**, **TailwindCSS**, **WordPress**,
-- Dive into **Linux**, **systems programming**, and **low-level concepts**
-- Write clean, maintainable code and love exploring performance optimizations
-- Constantly learning new tools, techniques, and workflows — fueled by coffee ☕
 ---
 
 ## 🛠 My Tech Stack
