@@ -1,54 +1,26 @@
-<h1 align="center">Hi, I'm Saif Jamal 👋</h1>
+# Saif Jamal
 
-<p align="center">
-Full-Stack Web Developer focused on building modern and scalable web applications.
-</p>
+Full-Stack Web Developer
 
 ---
 
-## 🌐 Connect with Me
+## About
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saif-jamal-76603722a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/home">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61570619048322">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://t.me/daifzone">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.goodreads.com/user/show/177529695-saif">
-    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"/>
-  </a>
-</p>
+- Computer Engineering  
+- Building scalable web applications
+- Goal: Work at top global tech companies
 
 ---
 
-## 👨‍💻 About Me
+## Tech Stack
 
-- 🎓 Computer Engineering    
-- 💻 Full-Stack Web Developer  
-- 🚀 Interested in building scalable web apps  
-- 🎯 Goal: Work at top global tech companies  
+React · Next.js · TypeScript · Tailwind CSS · Node.js · WordPress
 
 ---
 
-## 🛠 Tech Stack
+## Connect
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-
-</p>
+[LinkedIn](https://www.linkedin.com/in/saif-jamal-76603722a/) · [X](https://x.com/home) · [Facebook](https://www.facebook.com/profile.php?id=61570619048322) · [Telegram](https://t.me/daifzone) · [Goodreads](https://www.goodreads.com/user/show/177529695-saif)
 
 ---
 
@@ -62,7 +34,3 @@ Full-Stack Web Developer focused on building modern and scalable web application
 [![Coding Everyday | Day 31  العودة](https://ytcards.demolab.com/?id=edmlbNgCaYU&title=Coding+Everyday+%7C+Day+31++%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9&lang=en&timestamp=1770064558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 31  العودة")](https://www.youtube.com/watch?v=edmlbNgCaYU)
 [![Coding Everyday | Day 30  العودة](https://ytcards.demolab.com/?id=4i10cXyGGk4&title=Coding+Everyday+%7C+Day+30++%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9&lang=en&timestamp=1769981789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 30  العودة")](https://www.youtube.com/watch?v=4i10cXyGGk4)
 <!-- END YOUTUBE-CARDS -->
-
----
-
-⭐ *Always learning, always building.*
