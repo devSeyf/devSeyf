@@ -30,7 +30,7 @@ Full-Stack Web Developer focused on building modern and scalable web application
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student  
+- 🎓 Computer Engineering    
 - 💻 Full-Stack Web Developer  
 - 🚀 Interested in building scalable web apps  
 - 🎯 Goal: Work at top global tech companies  
