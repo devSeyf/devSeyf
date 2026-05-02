@@ -1,14 +1,3 @@
-# Saif Jamal
-
-Full-Stack Web Developer
-
----
-
-## About
-
-- Computer Engineering  
-- Building scalable web applications
-- Goal: Work at top global tech companies
 
 ---
 
