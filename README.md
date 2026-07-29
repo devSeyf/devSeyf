@@ -1,10 +1,11 @@
 # Hi, I'm Saif Jamal 👋
 
-- 💻 I've been building web applications for over 2 years
-- 🏰 I'm the founder of **Daif Empire**
-- 🎮 I'm currently learning **C# and Unity**
-- 📺 You can follow me on YouTube [@daif588](https://www.youtube.com/@daif588)
-- 💬 You can join my community on Telegram [Daif Zone](https://t.me/daifzone)
+- 🧩 I turn everyday problems into software—mostly with JavaScript, occasionally with C#.
+- 💻 I've been building web applications for over 2 years.
+- 🏰 I'm the founder of **Daif Empire**.
+- 🎮 I'm currently exploring **C# and Unity**.
+- 📺 Follow my coding journey on YouTube [@daif588](https://www.youtube.com/@daif588).
+- 💬 Join my community on Telegram [Daif Zone](https://t.me/daifzone).
 
 ---
 <table width="100%">
@@ -51,7 +52,7 @@
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
       </a>
       <br><br>
-      <a href="[https://x.com/YOUR_USERNAME](https://x.com/Saiifl1)">
+      <a href="[https://x.com/Saiifl1]">
         <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
       </a>
       <br><br>
