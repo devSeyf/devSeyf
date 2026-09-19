@@ -1,9 +1,9 @@
 # Hi, I'm Saif Jamal 👋
 
-- 🧩 I turn everyday problems into software—mostly with JavaScript, occasionally with C#.
-- 💻 I've been building web applications for over 2 years.
+- 🧩 I turn everyday problems into practical software solutions.
+- 💻 I've been building web applications for over 2 years, mainly with **React and ASP.NET**.
 - 🏰 I'm the founder of **Daif Empire**.
-- 🎮 I'm currently exploring **C# and Unity**.
+- 🤖 I'm currently exploring **AI and its integration with web applications**.
 - 📺 Follow my coding journey on YouTube [@daif588](https://www.youtube.com/@daif588).
 - 💬 Join my community on Telegram [Daif Zone](https://t.me/daifzone).
 
