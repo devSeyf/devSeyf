@@ -71,10 +71,5 @@
 ##  Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Study With Me 📚 | 3-Hour Study Session with 10-Minute Breaks](https://ytcards.demolab.com/?id=1GGPDQAaiLo&title=Study+With+Me+%F0%9F%93%9A+%7C+3-Hour+Study+Session+with+10-Minute+Breaks&lang=en&timestamp=1789912459&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Study With Me 📚 | 3-Hour Study Session with 10-Minute Breaks")](https://www.youtube.com/watch?v=1GGPDQAaiLo)
-[![Coding Everyday | Day 1 chrome extension](https://ytcards.demolab.com/?id=SMu-HJZAY0U&title=Coding+Everyday+%7C+Day+1+chrome+extension&lang=en&timestamp=1773223645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 1 chrome extension")](https://www.youtube.com/watch?v=SMu-HJZAY0U)
-[![Study with daif  الأسطورة  Live Stream](https://ytcards.demolab.com/?id=BOGzJ2UDi8o&title=Study+with+daif++%D8%A7%D9%84%D8%A3%D8%B3%D8%B7%D9%88%D8%B1%D8%A9++Live+Stream&lang=en&timestamp=1773175792&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Study with daif  الأسطورة  Live Stream")](https://www.youtube.com/watch?v=BOGzJ2UDi8o)
-[![Coding Everyday | Day 32](https://ytcards.demolab.com/?id=-fBCadOvsr8&title=Coding+Everyday+%7C+Day+32&lang=en&timestamp=1770841734&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 32")](https://www.youtube.com/watch?v=-fBCadOvsr8)
-[![Coding Everyday | Day31](https://ytcards.demolab.com/?id=EjJ_znUpXbs&title=Coding+Everyday+%7C+Day31&lang=en&timestamp=1770759783&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day31")](https://www.youtube.com/watch?v=EjJ_znUpXbs)
-[![Coding Everyday | Day 31  العودة](https://ytcards.demolab.com/?id=edmlbNgCaYU&title=Coding+Everyday+%7C+Day+31++%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9&lang=en&timestamp=1770064558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday | Day 31  العودة")](https://www.youtube.com/watch?v=edmlbNgCaYU)
+
 <!-- END YOUTUBE-CARDS -->
