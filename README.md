@@ -71,7 +71,5 @@
 ##  Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Study With Me for 2 Hours 📚 | Peaceful Quran Recitation](https://ytcards.demolab.com/?id=x769sRIb3Nk&title=Study+With+Me+for+2+Hours+%F0%9F%93%9A+%7C+Peaceful+Quran+Recitation&lang=en&timestamp=1791910806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Study With Me for 2 Hours 📚 | Peaceful Quran Recitation")](https://www.youtube.com/watch?v=x769sRIb3Nk)
-[![Study With Me for 2 Hours 📚 | Cozy Study Session • Stay Focused](https://ytcards.demolab.com/?id=weh8vuPoG_Y&title=Study+With+Me+for+2+Hours+%F0%9F%93%9A+%7C+Cozy+Study+Session+%E2%80%A2+Stay+Focused&lang=en&timestamp=1791727228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Study With Me for 2 Hours 📚 | Cozy Study Session • Stay Focused")](https://www.youtube.com/watch?v=weh8vuPoG_Y)
-[![Study With Me for 5 Hours 🌧️ | Pomodoro 60/10 • Calm Music & Rain Sounds](https://ytcards.demolab.com/?id=zqUJt5XUXwo&title=Study+With+Me+for+5+Hours+%F0%9F%8C%A7%EF%B8%8F+%7C+Pomodoro+60%2F10+%E2%80%A2+Calm+Music+%26+Rain+Sounds&lang=en&timestamp=1791558002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Study With Me for 5 Hours 🌧️ | Pomodoro 60/10 • Calm Music & Rain Sounds")](https://www.youtube.com/watch?v=zqUJt5XUXwo)
+
 <!-- END YOUTUBE-CARDS -->
