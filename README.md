@@ -71,9 +71,9 @@
 ##  Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CPU and GPU](https://ytcards.demolab.com/?id=ymwtQ6H9OTc&title=CPU+and+GPU&lang=en&timestamp=1793721635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CPU and GPU")](https://www.youtube.com/shorts/ymwtQ6H9OTc)
 [![ليش كلود اسمه كلود #برمجة](https://ytcards.demolab.com/?id=f-en6w18XiA&title=%D9%84%D9%8A%D8%B4+%D9%83%D9%84%D9%88%D8%AF+%D8%A7%D8%B3%D9%85%D9%87+%D9%83%D9%84%D9%88%D8%AF+%23%D8%A8%D8%B1%D9%85%D8%AC%D8%A9&lang=en&timestamp=1793633933&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ليش كلود اسمه كلود #برمجة")](https://www.youtube.com/shorts/f-en6w18XiA)
 [![كيف هزم AlphaGo لي سيدول؟ قصة غيّرت الذكاء الاصطناعي #برمجة](https://ytcards.demolab.com/?id=bXEysqAg3-A&title=%D9%83%D9%8A%D9%81+%D9%87%D8%B2%D9%85+AlphaGo+%D9%84%D9%8A+%D8%B3%D9%8A%D8%AF%D9%88%D9%84%D8%9F+%D9%82%D8%B5%D8%A9+%D8%BA%D9%8A%D9%91%D8%B1%D8%AA+%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1+%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A+%23%D8%A8%D8%B1%D9%85%D8%AC%D8%A9&lang=en&timestamp=1793554164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "كيف هزم AlphaGo لي سيدول؟ قصة غيّرت الذكاء الاصطناعي #برمجة")](https://www.youtube.com/shorts/bXEysqAg3-A)
-[![ليش مشروعك بيشتغل عندك وبس؟ Docker ببساطة #برمجة](https://ytcards.demolab.com/?id=wNRSYQwueEM&title=%D9%84%D9%8A%D8%B4+%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%83+%D8%A8%D9%8A%D8%B4%D8%AA%D8%BA%D9%84+%D8%B9%D9%86%D8%AF%D9%83+%D9%88%D8%A8%D8%B3%D8%9F+Docker+%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9+%23%D8%A8%D8%B1%D9%85%D8%AC%D8%A9&lang=en&timestamp=1793466038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ليش مشروعك بيشتغل عندك وبس؟ Docker ببساطة #برمجة")](https://www.youtube.com/shorts/wNRSYQwueEM)
 <!-- END YOUTUBE-CARDS -->
 
 
