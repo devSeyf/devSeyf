@@ -71,9 +71,9 @@
 ##  Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Siri ما كانت من اختراع Apple! قصة أول مساعد ذكي](https://ytcards.demolab.com/?id=9MZdZD15TFg&title=Siri+%D9%85%D8%A7+%D9%83%D8%A7%D9%86%D8%AA+%D9%85%D9%86+%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9+Apple%21+%D9%82%D8%B5%D8%A9+%D8%A3%D9%88%D9%84+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF+%D8%B0%D9%83%D9%8A&lang=en&timestamp=1793979910&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Siri ما كانت من اختراع Apple! قصة أول مساعد ذكي")](https://www.youtube.com/shorts/9MZdZD15TFg)
 [![SI ولا AI؟ ليش ترامب غيّر الاسم؟](https://ytcards.demolab.com/?id=1xRZBlvBUnM&title=SI+%D9%88%D9%84%D8%A7+AI%D8%9F+%D9%84%D9%8A%D8%B4+%D8%AA%D8%B1%D8%A7%D9%85%D8%A8+%D8%BA%D9%8A%D9%91%D8%B1+%D8%A7%D9%84%D8%A7%D8%B3%D9%85%D8%9F&lang=en&timestamp=1793890801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SI ولا AI؟ ليش ترامب غيّر الاسم؟")](https://www.youtube.com/shorts/1xRZBlvBUnM)
 [![واتسون: الآلة اللي هزمت أبطال جيوباردي سنة 2011](https://ytcards.demolab.com/?id=1CU_tw4GgR8&title=%D9%88%D8%A7%D8%AA%D8%B3%D9%88%D9%86%3A+%D8%A7%D9%84%D8%A2%D9%84%D8%A9+%D8%A7%D9%84%D9%84%D9%8A+%D9%87%D8%B2%D9%85%D8%AA+%D8%A3%D8%A8%D8%B7%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%A8%D8%A7%D8%B1%D8%AF%D9%8A+%D8%B3%D9%86%D8%A9+2011&lang=en&timestamp=1793808001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "واتسون: الآلة اللي هزمت أبطال جيوباردي سنة 2011")](https://www.youtube.com/shorts/1CU_tw4GgR8)
-[![CPU and GPU](https://ytcards.demolab.com/?id=ymwtQ6H9OTc&title=CPU+and+GPU&lang=en&timestamp=1793721635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CPU and GPU")](https://www.youtube.com/shorts/ymwtQ6H9OTc)
 <!-- END YOUTUBE-CARDS -->
 
 
