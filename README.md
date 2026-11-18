@@ -71,9 +71,9 @@
 ##  Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![cmd](https://ytcards.demolab.com/?id=Or_lJFDIeQY&title=cmd&lang=en&timestamp=1794948312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "cmd")](https://www.youtube.com/shorts/Or_lJFDIeQY)
 [![cv](https://ytcards.demolab.com/?id=PrPSgOeUwdQ&title=cv&lang=en&timestamp=1794933436&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "cv")](https://www.youtube.com/shorts/PrPSgOeUwdQ)
 [![اختصار Tab اللي بيوفّر عليك نص الكتابة بالـ Terminal ⌨️ #Shorts](https://ytcards.demolab.com/?id=WRa1LItwfrE&title=%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1+Tab+%D8%A7%D9%84%D9%84%D9%8A+%D8%A8%D9%8A%D9%88%D9%81%D9%91%D8%B1+%D8%B9%D9%84%D9%8A%D9%83+%D9%86%D8%B5+%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9+%D8%A8%D8%A7%D9%84%D9%80+Terminal+%E2%8C%A8%EF%B8%8F+%23Shorts&lang=en&timestamp=1794861917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "اختصار Tab اللي بيوفّر عليك نص الكتابة بالـ Terminal ⌨️ #Shorts")](https://www.youtube.com/shorts/WRa1LItwfrE)
-[![اش يعني بروكسي؟ شرح بـ 30 ثانية 🌐 #Shorts](https://ytcards.demolab.com/?id=buwYV7El7mM&title=%D8%A7%D8%B4+%D9%8A%D8%B9%D9%86%D9%8A+%D8%A8%D8%B1%D9%88%D9%83%D8%B3%D9%8A%D8%9F+%D8%B4%D8%B1%D8%AD+%D8%A8%D9%80+30+%D8%AB%D8%A7%D9%86%D9%8A%D8%A9+%F0%9F%8C%90+%23Shorts&lang=en&timestamp=1794841248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "اش يعني بروكسي؟ شرح بـ 30 ثانية 🌐 #Shorts")](https://www.youtube.com/shorts/buwYV7El7mM)
 <!-- END YOUTUBE-CARDS -->
 
 
